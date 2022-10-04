@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+f7RiHeKbbFnivdacvwCswTUlxLf8pe4/n1g9Zq4kGVlxNKDwRLcrcw0cbJitHSv82KXtcpYV/p5NfEugWBsXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sumit\\OneDrive\\Skrivebord\\SiMiniProject2\\SiMiniProject2BPM\\WebApplication1\\MicroService2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sumit\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\sumit\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sumit\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\sumit\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\sumit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\sumit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

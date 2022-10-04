@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroService1", "SiMiniProject2BPM\MicroService1.csproj", "{583352E8-077C-443C-A76A-B6036E61B61C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisLibrary", "RedisLibrary\RedisLibrary.csproj", "{F063977B-1C27-474D-8782-DA39B1ABAB3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroService2", "MicroService2\MicroService2.csproj", "{E2FF5CF8-3C5D-4751-A698-E7DEE823EB52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{583352E8-077C-443C-A76A-B6036E61B61C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583352E8-077C-443C-A76A-B6036E61B61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583352E8-077C-443C-A76A-B6036E61B61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583352E8-077C-443C-A76A-B6036E61B61C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F063977B-1C27-474D-8782-DA39B1ABAB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F063977B-1C27-474D-8782-DA39B1ABAB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F063977B-1C27-474D-8782-DA39B1ABAB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F063977B-1C27-474D-8782-DA39B1ABAB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2FF5CF8-3C5D-4751-A698-E7DEE823EB52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2FF5CF8-3C5D-4751-A698-E7DEE823EB52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2FF5CF8-3C5D-4751-A698-E7DEE823EB52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2FF5CF8-3C5D-4751-A698-E7DEE823EB52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {094B8696-22BF-42A0-9111-7296222900C3}
+	EndGlobalSection
+EndGlobal
