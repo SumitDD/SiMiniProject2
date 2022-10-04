@@ -1,4 +1,4 @@
-﻿using MicroService1.Models;
+﻿using Common.Models;
 using Newtonsoft.Json;
 using RedisLibrary.RedisConnector;
 
@@ -21,13 +21,6 @@ namespace MicroService1.Services
 
                 return false;
             }
-          
-
-        
-        
-        
         }
-
-
     }
 }

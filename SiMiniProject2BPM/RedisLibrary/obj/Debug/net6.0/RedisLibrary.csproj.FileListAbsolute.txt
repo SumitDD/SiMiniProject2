@@ -10,3 +10,15 @@ C:\Users\sumit\OneDrive\Skrivebord\SiMiniProject2\SiMiniProject2BPM\RedisLibrary
 C:\Users\sumit\OneDrive\Skrivebord\SiMiniProject2\SiMiniProject2BPM\RedisLibrary\obj\Debug\net6.0\refint\RedisLibrary.dll
 C:\Users\sumit\OneDrive\Skrivebord\SiMiniProject2\SiMiniProject2BPM\RedisLibrary\obj\Debug\net6.0\RedisLibrary.pdb
 C:\Users\sumit\OneDrive\Skrivebord\SiMiniProject2\SiMiniProject2BPM\RedisLibrary\obj\Debug\net6.0\ref\RedisLibrary.dll
+C:\Users\phillip\Desktop\SystemIntegrationMini2\SiMiniProject2\SiMiniProject2BPM\RedisLibrary\obj\Debug\net6.0\RedisLibrary.csproj.AssemblyReference.cache
+C:\Users\phillip\Desktop\SystemIntegrationMini2\SiMiniProject2\SiMiniProject2BPM\RedisLibrary\obj\Debug\net6.0\RedisLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phillip\Desktop\SystemIntegrationMini2\SiMiniProject2\SiMiniProject2BPM\RedisLibrary\obj\Debug\net6.0\RedisLibrary.AssemblyInfoInputs.cache
+C:\Users\phillip\Desktop\SystemIntegrationMini2\SiMiniProject2\SiMiniProject2BPM\RedisLibrary\obj\Debug\net6.0\RedisLibrary.AssemblyInfo.cs
+C:\Users\phillip\Desktop\SystemIntegrationMini2\SiMiniProject2\SiMiniProject2BPM\RedisLibrary\obj\Debug\net6.0\RedisLibrary.csproj.CoreCompileInputs.cache
+C:\Users\phillip\Desktop\SystemIntegrationMini2\SiMiniProject2\SiMiniProject2BPM\RedisLibrary\obj\Debug\net6.0\RedisLibrary.dll
+C:\Users\phillip\Desktop\SystemIntegrationMini2\SiMiniProject2\SiMiniProject2BPM\RedisLibrary\obj\Debug\net6.0\ref\RedisLibrary.dll
+C:\Users\phillip\Desktop\SystemIntegrationMini2\SiMiniProject2\SiMiniProject2BPM\RedisLibrary\obj\Debug\net6.0\RedisLibrary.pdb
+C:\Users\phillip\Desktop\SystemIntegrationMini2\SiMiniProject2\SiMiniProject2BPM\RedisLibrary\bin\Debug\net6.0\RedisLibrary.deps.json
+C:\Users\phillip\Desktop\SystemIntegrationMini2\SiMiniProject2\SiMiniProject2BPM\RedisLibrary\bin\Debug\net6.0\RedisLibrary.dll
+C:\Users\phillip\Desktop\SystemIntegrationMini2\SiMiniProject2\SiMiniProject2BPM\RedisLibrary\bin\Debug\net6.0\RedisLibrary.pdb
+C:\Users\phillip\Desktop\SystemIntegrationMini2\SiMiniProject2\SiMiniProject2BPM\RedisLibrary\obj\Debug\net6.0\refint\RedisLibrary.dll

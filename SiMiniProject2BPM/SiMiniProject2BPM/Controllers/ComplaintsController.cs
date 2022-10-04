@@ -1,4 +1,4 @@
-using MicroService1.Models;
+using Common.Models;
 using MicroService1.Services;
 using Microsoft.AspNetCore.Mvc;
 

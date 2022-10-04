@@ -1,9 +1,6 @@
-﻿using RedisLibrary.RedisConnector;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Common.Models;
+using Newtonsoft.Json;
+using RedisLibrary.RedisConnector;
 
 namespace MicroService2.Services
 {
@@ -13,7 +10,14 @@ namespace MicroService2.Services
         {
             var connection = RedisConnector.GetConnection();
             var pubSub = connection.GetSubscriber();
-            pubSub.Subscribe("channel", (channel, message)=>Console.WriteLine(message));
+            pubSub.Subscribe("channel", async (channel, message)=> {
+                Console.WriteLine(message);
+                var deserializedComplaint = JsonConvert.DeserializeObject<Complaint>(message);
+
+                // send email
+                await EmailService.SendEmailComplaintResponse(new ComplaintResponse { Email = deserializedComplaint.Email});
+            });
+
             Console.ReadLine();
         }
 

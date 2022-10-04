@@ -8,8 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "MicroService1/1.0.0": {
         "dependencies": {
+          "Common": "1.0.0",
           "Newtonsoft.Json": "13.0.1",
-          "RedisLibrary": "1.0.0",
           "Swashbuckle.AspNetCore": "6.2.3"
         },
         "runtime": {
@@ -234,12 +234,12 @@
           }
         }
       },
-      "RedisLibrary/1.0.0": {
+      "Common/1.0.0": {
         "dependencies": {
           "StackExchange.Redis": "2.6.66"
         },
         "runtime": {
-          "RedisLibrary.dll": {}
+          "Common.dll": {}
         }
       }
     }
@@ -397,7 +397,7 @@
       "path": "system.windows.extensions/5.0.0",
       "hashPath": "system.windows.extensions.5.0.0.nupkg.sha512"
     },
-    "RedisLibrary/1.0.0": {
+    "Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
