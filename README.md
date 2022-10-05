@@ -54,6 +54,9 @@ CREATE TABLE Complaint (
     │   └── ...                
     └── ...
 
+
+> :warning: Make sure that you select multiple startup projects and select both the services on startup!
+
 **Step 4: Run the project and call the followin endpoint with the following request body:
 
 https://localhost:7052/Complaints
