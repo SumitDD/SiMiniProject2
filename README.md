@@ -54,6 +54,16 @@ CREATE TABLE Complaint (
     │   └── ...                
     └── ...
 
-**Step 4: Run the project!:
+**Step 4: Run the project and call the followin endpoint with the following request body:
+
+https://localhost:7052/Complaints
+
+
+```
+{
+  "email": "Your Email",
+  "message": "Your complaint"
+}
+```
 
 
