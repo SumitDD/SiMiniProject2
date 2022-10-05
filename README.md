@@ -46,7 +46,7 @@ CREATE TABLE Complaint (
 
 **Step 3: Open the project solution *SiMiniProject2BPM.sin* as shown below in the directory tree:
 
- .
+ 
     ├── ...
     ├── SiMiniProject2BPM                   
     │   ├── SiMiniProject2BPM.sin        
