@@ -35,7 +35,7 @@ The files are respectively located in the two folders  *Docker-postgres* and *Do
 
 **Step 2: Run the following script in DBeaver or any other editor**
 
-This will generate the following script:
+Run the following script:
 ```
 CREATE TABLE Complaint (
 	ID serial PRIMARY KEY,
