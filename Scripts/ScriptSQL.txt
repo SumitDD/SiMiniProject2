@@ -1,0 +1,5 @@
+CREATE TABLE Complaint (
+	ID serial PRIMARY KEY,
+	Email VARCHAR ( 50 ) UNIQUE NOT NULL,
+	ComplaintMessage VARCHAR (255) NOT NULL
+);
